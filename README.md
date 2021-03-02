@@ -6,7 +6,7 @@ _run:_
 
 	npm install
 	
-_finally run: _
+_finally run:_
 	
 	npm start
 
