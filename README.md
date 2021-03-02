@@ -1,6 +1,6 @@
 # Fetch API
 
-**Using this webpack-boilerplate do the following tast** 
+**Using this webpack-boilerplate do the following task** 
 
 _run:_
 
