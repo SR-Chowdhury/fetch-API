@@ -15,9 +15,9 @@ _finally run:_
 
 # Behind the Scene of fetch API
 
-What is Async Task?
-What is promise?
-What is Fetch API
+**What is Async Task?**
+**What is promise?**
+**What is Fetch API**
 
 # _What is Async Task_
 
@@ -34,6 +34,7 @@ What is Fetch API
 	}, 1000);
 
 **Output: I am number One -> Three -> Four -> Two**
+
 **This is call Async task** 
 
 
